@@ -26,7 +26,7 @@ spec:
     spec:
       containers:
       - name: mongodb
-      image: nawin1298/mongodb:v1
+        image: nawin1298/mongodb:v1
 
 ---
 apiVersion: v1
